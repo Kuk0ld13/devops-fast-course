@@ -1,0 +1,7 @@
+INFO App started
+INFO User opened page
+WARNING Memory is low
+ERROR Database connection failed
+ERROR Payment service unavailable
+INFO App stopped
+ERROR Auth service failed
